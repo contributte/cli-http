@@ -1,6 +1,6 @@
 # CLI HTTP
 
-[![Downloads this Month](https://img.shields.io/packagist/dm/minetro/cli-http-extension.svg?style=flat)](https://packagist.org/packages/minetro/cli-http-extension)
+[![Downloads total](https://img.shields.io/packagist/dt/minetro/cli-http-extension.svg?style=flat)](https://packagist.org/packages/minetro/cli-http-extension)
 [![Latest stable](https://img.shields.io/packagist/v/minetro/cli-http-extension.svg?style=flat)](https://packagist.org/packages/minetro/cli-http-extension)
 
 CLI HTTP Extension for Nette. Provide URL in your CLI mode only, it does not override your `http.request` in other modes.
