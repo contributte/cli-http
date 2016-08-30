@@ -13,7 +13,7 @@ CLI HTTP Extension for Nette. Provide URL in your CLI mode only, it does not ove
 
 ## Install
 ```sh
-$ composer require minetro/cli-http-extension:~0.1
+$ composer require minetro/cli-http-extension
 ```
 
 ## Usage
