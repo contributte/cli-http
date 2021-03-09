@@ -16,8 +16,8 @@ CLI HTTP Extension for Nette. Provide URL in your CLI mode only, it does not ove
 This package is no longer developed here. In favor of [contributte/http](https://github.com/contributte/http). 
 
 ## Install
-```sh
-$ composer require minetro/cli-http-extension
+```bash
+composer require minetro/cli-http-extension
 ```
 
 ## Usage
@@ -25,14 +25,14 @@ $ composer require minetro/cli-http-extension
 Place it in your config file (e.q. config.neon).
 
 ### Simplest
-```neon
+```yaml
 extensions:
     clihttp: Minetro\Bridges\CliHttpExtension(www.example.com)
 ```
 
 ### Extended
 
-```neon
+```yaml
 extensions:
     clihttp: Minetro\Bridges\CliHttpExtension
 
