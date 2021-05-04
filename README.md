@@ -17,7 +17,7 @@
 
 | Composer | [`minetro/cli-http-extension`](https://packagist.org/packages/minetro/cli-http-extension) |
 |---| --- |
-| Version | ![](https://badgen.net/packagist/vminetro/cli-http-extension) |
+| Version | ![](https://badgen.net/packagist/v/minetro/cli-http-extension) |
 | PHP | ![](https://badgen.net/packagist/php/minetro/cli-http-extension) |
 | License | ![](https://badgen.net/github/license/minetro/cli-http-extensionp) |
 
