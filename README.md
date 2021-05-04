@@ -15,11 +15,11 @@
 | :warning: | This project is no longer being maintained. Please use [contributte/http](https://github.com/contributte/http).
 |---|---|
 
-| Composer | [`contributte/http`](https://packagist.org/packages/contributte/http) |
+| Composer | [`minetro/cli-http-extension`](https://packagist.org/packages/minetro/cli-http-extension) |
 |---| --- |
-| Version | ![](https://badgen.net/packagist/v/contributte/http) |
-| PHP | ![](https://badgen.net/packagist/php/contributte/http) |
-| License | ![](https://badgen.net/github/license/contributte/http) |
+| Version | ![](https://badgen.net/packagist/vminetro/cli-http-extension) |
+| PHP | ![](https://badgen.net/packagist/php/minetro/cli-http-extension) |
+| License | ![](https://badgen.net/github/license/minetro/cli-http-extensionp) |
 
 CLI HTTP Extension for Nette. Provide URL in your CLI mode only, it does not override your `http.request` in other modes.
 
@@ -56,9 +56,7 @@ clihttp:
 
 ## Development
 
-See [how to contribute](https://contributte.org/contributing.html) to this package.
-
-This package is currently maintaining by these authors.
+This package was maintain by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
@@ -67,4 +65,4 @@ This package is currently maintaining by these authors.
 -----
 
 Consider to [support](https://contributte.org/partners.html) **contributte** development team.
-Also thank you for using this package.
+Also thank you for being used this package.
