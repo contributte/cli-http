@@ -2,7 +2,9 @@
   "name": "minetro/cli-http-extension",
   "description": "CLI HTTP Extension for Nette",
   "type": "library",
-  "license": ["BSD-3-Clause"],
+  "license": [
+    "BSD-3-Clause"
+  ],
   "homepage": "https://github.com/minetro/cli-http-extension",
   "authors": [
     {
@@ -15,6 +17,8 @@
     "nette/di": "^2.4.0"
   },
   "autoload": {
-    "classmap": ["src/"]
+    "classmap": [
+      "src/"
+    ]
   }
 }
